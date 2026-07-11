@@ -1,4 +1,4 @@
-# Pokeapi-cli
+# pokedex-cli
 
 Puedes navegar el mundo de pokemon, atraparlos y ver tu pokedex
 
